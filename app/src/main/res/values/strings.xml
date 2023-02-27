@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 5</string>
+    <string name="add_new_food">Add new food</string>
+    <string name="enter_calories_amount">Enter calroies amount</string>
+    <string name="calories">Calories</string>
+    <string name="caloriesTextField">Calories</string>
+</resources>
